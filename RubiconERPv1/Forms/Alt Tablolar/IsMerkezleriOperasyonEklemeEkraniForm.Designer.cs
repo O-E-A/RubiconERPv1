@@ -168,7 +168,7 @@
             // 
             this.cbFirmaKodu.Enabled = false;
             this.cbFirmaKodu.FormattingEnabled = true;
-            this.cbFirmaKodu.Location = new System.Drawing.Point(290, 100);
+            this.cbFirmaKodu.Location = new System.Drawing.Point(301, 100);
             this.cbFirmaKodu.Margin = new System.Windows.Forms.Padding(4);
             this.cbFirmaKodu.Name = "cbFirmaKodu";
             this.cbFirmaKodu.Size = new System.Drawing.Size(126, 24);
